@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljabirrahman&label=Profile%20views&color=0e75b6&style=flat" alt="aljabirrahman" /> </p>
 
-- 🌱 I’m currently learning **Creative It Iinstitute**
+- 🌱 I’m currently learning **Creative It Institute**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aljabirrahman](https://linktr.ee/aljabirrahman)
 
